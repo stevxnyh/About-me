@@ -1,6 +1,8 @@
 #  Equipment
 I'm using GitHub for this because I thought it would be kinda cool and it's just for practice I guess?
-
+<table>
+  <tr><dr>
+    
 | Equipment | Name
 ------------------------------------------------
 | Laptop     | HP Pavilion Notebook 2019
