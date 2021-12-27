@@ -1,6 +1,7 @@
 #  Equipment
 I'm using GitHub for this because I thought it would be kinda cool and it's just for practice I guess?
 <table>
+<tr><td>
     
 | Equipment | Name
 |-------------------------------------------------|
