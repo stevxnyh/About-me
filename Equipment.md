@@ -20,3 +20,5 @@ I'm using GitHub for this because I thought it would be kinda cool and it's just
 | Storage   | 500GB Samsung M.2 SSD             |
 | GPU       | Geforce GTX 1050 Mobile 3GB VRAM  |
 | Display   | 15-inch 1920x1080 60hz            |
+
+</td></tr></table>
