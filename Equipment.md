@@ -11,7 +11,7 @@ I'm using GitHub for this because I thought it would be kinda cool and it's just
 | Phone?     | Samsung Galaxy A71 6gb+128gb ROM   |
 | Monitor    | HP 24f 75hz 1920x1080              |
 
-</td><td>
+    </td><td>
     
 | Laptop |  Hp Pavilion Notebook 2019     
 |-----------------------------------------------|
@@ -21,4 +21,4 @@ I'm using GitHub for this because I thought it would be kinda cool and it's just
 | GPU       | Geforce GTX 1050 Mobile 3GB VRAM  |
 | Display   | 15-inch 1920x1080 60hz            |
 
-</td></tr></table>
+    </td></tr></table>
