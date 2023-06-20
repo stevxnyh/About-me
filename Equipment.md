@@ -22,8 +22,6 @@ i did not make this because i simply cannot do anything for the life of me
 | GPU       | Geforce GTX 1050 Mobile 3GB VRAM  |
 | Display   | 15-inch 1920x1080 60hz            |
 
-</td><td>
-
 | Phones    | Galaxy s8 | Galaxy S21 FE 
 | Processor | Exynos 8895 | Snapdragon 888   
 | Ram       | 4GB | 6GB
